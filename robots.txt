@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohweiroht.seminar-mo.sk/sitemap.xml
